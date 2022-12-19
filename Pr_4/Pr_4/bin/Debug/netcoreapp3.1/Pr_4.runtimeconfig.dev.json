@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Felgect.DESKTOP-8MS8RTK\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Felgect.DESKTOP-8MS8RTK\\.nuget\\packages",
+      "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+    ]
+  }
+}

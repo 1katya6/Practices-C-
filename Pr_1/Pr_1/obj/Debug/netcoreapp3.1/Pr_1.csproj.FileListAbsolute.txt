@@ -1,0 +1,14 @@
+C:\Users\Felgect.DESKTOP-8MS8RTK\source\repos\Pr_1\Pr_1\bin\Debug\netcoreapp3.1\Pr_1.exe
+C:\Users\Felgect.DESKTOP-8MS8RTK\source\repos\Pr_1\Pr_1\bin\Debug\netcoreapp3.1\Pr_1.deps.json
+C:\Users\Felgect.DESKTOP-8MS8RTK\source\repos\Pr_1\Pr_1\bin\Debug\netcoreapp3.1\Pr_1.runtimeconfig.json
+C:\Users\Felgect.DESKTOP-8MS8RTK\source\repos\Pr_1\Pr_1\bin\Debug\netcoreapp3.1\Pr_1.runtimeconfig.dev.json
+C:\Users\Felgect.DESKTOP-8MS8RTK\source\repos\Pr_1\Pr_1\bin\Debug\netcoreapp3.1\Pr_1.dll
+C:\Users\Felgect.DESKTOP-8MS8RTK\source\repos\Pr_1\Pr_1\bin\Debug\netcoreapp3.1\Pr_1.pdb
+C:\Users\Felgect.DESKTOP-8MS8RTK\source\repos\Pr_1\Pr_1\obj\Debug\netcoreapp3.1\Pr_1.csproj.AssemblyReference.cache
+C:\Users\Felgect.DESKTOP-8MS8RTK\source\repos\Pr_1\Pr_1\obj\Debug\netcoreapp3.1\Pr_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felgect.DESKTOP-8MS8RTK\source\repos\Pr_1\Pr_1\obj\Debug\netcoreapp3.1\Pr_1.AssemblyInfoInputs.cache
+C:\Users\Felgect.DESKTOP-8MS8RTK\source\repos\Pr_1\Pr_1\obj\Debug\netcoreapp3.1\Pr_1.AssemblyInfo.cs
+C:\Users\Felgect.DESKTOP-8MS8RTK\source\repos\Pr_1\Pr_1\obj\Debug\netcoreapp3.1\Pr_1.csproj.CoreCompileInputs.cache
+C:\Users\Felgect.DESKTOP-8MS8RTK\source\repos\Pr_1\Pr_1\obj\Debug\netcoreapp3.1\Pr_1.dll
+C:\Users\Felgect.DESKTOP-8MS8RTK\source\repos\Pr_1\Pr_1\obj\Debug\netcoreapp3.1\Pr_1.pdb
+C:\Users\Felgect.DESKTOP-8MS8RTK\source\repos\Pr_1\Pr_1\obj\Debug\netcoreapp3.1\Pr_1.genruntimeconfig.cache

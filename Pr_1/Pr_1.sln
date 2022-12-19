@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pr_1", "Pr_1\Pr_1.csproj", "{0CDF614B-70B0-4CA0-AF75-71723146FB0A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{89C449D3-1F46-4778-AA1A-778F483F0A95}"
+	ProjectSection(SolutionItems) = preProject
+		..\Time0101\Searching.cs = ..\Time0101\Searching.cs
+		..\Time0101\Sorting.cs = ..\Time0101\Sorting.cs
+		..\Time0101\Timing.cs = ..\Time0101\Timing.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CDF614B-70B0-4CA0-AF75-71723146FB0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CDF614B-70B0-4CA0-AF75-71723146FB0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CDF614B-70B0-4CA0-AF75-71723146FB0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CDF614B-70B0-4CA0-AF75-71723146FB0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0875561-828C-48B4-B9D5-DFE592D9E384}
+	EndGlobalSection
+EndGlobal
